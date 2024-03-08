@@ -20,7 +20,7 @@ I'm a passionate IT student and aspiring IT professional. Welcome to my GitHub p
 Here are some of my noteworthy projects:
 
 1. [RESTful web service](https://github.com/imperial-greed/Book-Shop-using-RESTful-web-service/tree/master): Created a RESTful web service that can add, edit, delete and update book records. The project have a frontend (client application) that can display the data retrieved from the server. The client can also store, update and delete data in the server. Used Java language, Maven, Springboot framework and REST API. You may navigate to the master branch to access the bookshop folder.
-2. [Project 2 Name](link-to-project2): Brief description of the project.
+2. 
 3. 
 
 Explore my repositories to see more!
